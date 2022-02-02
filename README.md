@@ -17,4 +17,4 @@ Lecture Content
 Certificate of Completion
 
 ```
-![](Avinash Mahech.png)
+![Certificate](Avinash Mahech.png)
