@@ -11,4 +11,8 @@ Lecture Content
 5. An Introduction to CI/CD for automated model deployment
 
 [Omdena MLOps Course Link](https://omdena.com/course/mlops-for-ai-engineers-and-data-scientists/) 
+----------------------
+```
+![Certificate of completion](Avinash Mahech.png)
+```
 
